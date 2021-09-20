@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = natalia@kiyanpay.com
+	name = natalia rossini
